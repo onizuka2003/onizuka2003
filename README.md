@@ -89,7 +89,6 @@ Además, participo como **autor y ponente** en proyectos de investigación aplic
 ---
 
 ## // Contacto
-<h2 align="center">// Contacto</h2>
 
 <p align="center">
   <a href="AQUI_TU_LINKEDIN" target="_blank">
