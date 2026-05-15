@@ -17,7 +17,7 @@ Además, participo como **autor y ponente** en proyectos de investigación aplic
 
 ---
 
-## // Tech Stack
+<h2 align="center">// Tech Stack</h2>
 
 <h3 align="center">Frontend</h3>
 
@@ -40,20 +40,41 @@ Además, participo como **autor y ponente** en proyectos de investigación aplic
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-<h3 align="center">Datos y herramientas</h3>
+<h3 align="center">Análisis de datos</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
+</p>
+
+<h3 align="center">Bioinformática aplicada</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VCF-Variant%20Analysis-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ensembl%20VEP-Variant%20Annotation-005C84?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MyVariant-API%20Annotation-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AlphaFold-Protein%20Structure-2E7D32?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FoldX-ddG%20Analysis-8E24AA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PyMOL-Molecular%20Visualization-1565C0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UCSF%20Chimera-Molecular%20Modeling-00838F?style=for-the-badge" />
+</p>
+
+<h3 align="center">Herramientas</h3>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
-
 ---
 
 ## // Actualmente estoy fortaleciendo
