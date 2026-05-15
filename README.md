@@ -89,12 +89,21 @@ Además, participo como **autor y ponente** en proyectos de investigación aplic
 ---
 
 ## // Contacto
+<h2 align="center">// Contacto</h2>
+
 <p align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](AQUI_TU_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/onizuka2003)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_CORREO)
+  <a href="AQUI_TU_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/onizuka2003" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="mailto:TU_CORREO">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a5acd,100:67e8f9&height=120&section=footer"/>
