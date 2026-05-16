@@ -129,7 +129,7 @@ Además, participo como **autor y ponente** en proyectos de investigación aplic
     <td>Aplicación para análisis de variantes genéticas en deportistas a partir de archivos VCF.</td>
     <td>Python, Streamlit, pandas, VCF</td>
     <td>
-      <a href="AQUI_LINK_REPOSITORIO_SPORTVAR">Repo</a>
+      <a href="https://github.com/onizuka2003/proyecto.git">Repo</a>
     </td>
   </tr>
 </table>
