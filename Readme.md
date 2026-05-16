@@ -1,4 +1,9 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a5acd,100:67e8f9&height=200&section=header&text=Alejandro%20Vanegas%20Arias&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 <h1 align="center">Alejandro Vanegas Arias</h1>
+
 <h3 align="center">Aprendiz ADSO | Desarrollo Web | Datos | Bioinformática aplicada</h3>
 
 <p align="center">
@@ -7,11 +12,11 @@
 
 ---
 
-## // Sobre mí
+<h2 align="center">// Sobre mí</h2>
 
 Soy aprendiz de **Análisis y Desarrollo de Software del SENA**, con interés en **desarrollo web, bases de datos, APIs, automatización de procesos y análisis de datos**.
 
-Trabajo con tecnologías como **JavaScript, React, Node.js, MongoDB, MySQL, Python, R, Git/GitHub, Postman, Figma y Linux**.
+Trabajo con tecnologías como **JavaScript, React, Node.js, MongoDB, MySQL, SQLite, Python, R, pandas, Streamlit, Google Colab, Git/GitHub, Postman, Figma y Linux**.
 
 Además, participo como **autor y ponente** en proyectos de investigación aplicada en **genética, bioinformática y rendimiento deportivo** desde la **Institución Universitaria Escuela Nacional del Deporte**.
 
@@ -26,7 +31,6 @@ Además, participo como **autor y ponente** en proyectos de investigación aplic
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
 <h3 align="center">Backend</h3>
@@ -50,6 +54,7 @@ Además, participo como **autor y ponente** en proyectos de investigación aplic
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
 </p>
 
@@ -75,16 +80,6 @@ Además, participo como **autor y ponente** en proyectos de investigación aplic
   <img src="https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
----
-
-## // Actualmente estoy fortaleciendo
-
-- Desarrollo frontend con React
-- Backend con Node.js
-- Bases de datos MongoDB y MySQL
-- APIs REST y pruebas con Postman
-- Análisis de datos con Python y R
-- Aplicaciones tecnológicas para datos científicos y deportivos
 
 ---
 
@@ -92,7 +87,7 @@ Además, participo como **autor y ponente** en proyectos de investigación aplic
 
 <ul>
   <li>Desarrollo frontend con React</li>
-  <li>Backend con Node.js</li>
+  <li>Backend con Node.js y Express</li>
   <li>Bases de datos MongoDB, MySQL y SQLite</li>
   <li>APIs REST y pruebas con Postman</li>
   <li>Análisis de datos con Python, R, pandas, Streamlit y Google Colab</li>
@@ -160,7 +155,7 @@ Además, participo como **autor y ponente** en proyectos de investigación aplic
 <h2 align="center">// Contacto</h2>
 
 <p align="center">
-  <a href="AQUI_TU_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/alejandro-vanegas-8973bb383/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
@@ -174,26 +169,6 @@ Además, participo como **autor y ponente** en proyectos de investigación aplic
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a5acd,100:67e8f9&height=120&section=footer"/>
-</p>
-
-## // Contacto
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/alejandro-vanegas-8973bb383/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/onizuka2003" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <a href="mailto:TU_CORREO">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a5acd,100:67e8f9&height=120&section=footer"/>
