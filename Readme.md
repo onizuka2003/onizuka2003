@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a5acd,100:67e8f9&height=200&section=header&text=Alejandro%20Vanegas%20Arias&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center">Alejandro Vanegas Arias</h1>
+
 
 <h3 align="center">Aprendiz ADSO | Desarrollo Web | Datos | Bioinformática aplicada</h3>
 
