@@ -120,7 +120,7 @@ Además, participo como **autor y ponente** en proyectos de investigación aplic
     <td>Aplicación web con login básico, conversión de voz a texto y texto a voz.</td>
     <td>React, Node.js, JavaScript</td>
     <td>
-      <a href="AQUI_LINK_REPOSITORIO_CONVERSOR">Repo</a>
+      <a href="https://github.com/onizuka2003/Convector-texto-a-voz-">Repo</a>
     </td>
   </tr>
 
