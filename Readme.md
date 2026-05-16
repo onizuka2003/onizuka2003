@@ -111,7 +111,7 @@ Además, participo como **autor y ponente** en proyectos de investigación aplic
     <td>Prototipo frontend para un sistema de personalización de empaques.</td>
     <td>React, JavaScript, HTML, CSS, Figma</td>
     <td>
-      <a href="AQUI_LINK_REPOSITORIO_QUIET">Repo</a>
+      <a href="https://github.com/onizuka2003/quiet">Repo</a>
     </td>
   </tr>
 
