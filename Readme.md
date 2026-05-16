@@ -91,7 +91,7 @@ Además, participo como **autor y ponente** en proyectos de investigación aplic
 ## // Contacto
 
 <p align="center">
-  <a href="AQUI_TU_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/alejandro-vanegas-8973bb383/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
