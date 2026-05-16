@@ -88,6 +88,97 @@ Además, participo como **autor y ponente** en proyectos de investigación aplic
 
 ---
 
+<h2 align="center">// Actualmente estoy fortaleciendo</h2>
+
+<ul>
+  <li>Desarrollo frontend con React</li>
+  <li>Backend con Node.js</li>
+  <li>Bases de datos MongoDB, MySQL y SQLite</li>
+  <li>APIs REST y pruebas con Postman</li>
+  <li>Análisis de datos con Python, R, pandas, Streamlit y Google Colab</li>
+  <li>Aplicaciones tecnológicas para datos científicos, biomédicos y deportivos</li>
+</ul>
+
+---
+
+<h2 align="center">// Proyectos destacados</h2>
+
+<table align="center">
+  <tr>
+    <th>Proyecto</th>
+    <th>Descripción</th>
+    <th>Stack</th>
+    <th>Links</th>
+  </tr>
+
+  <tr>
+    <td><strong>Quiet Customizer</strong></td>
+    <td>Prototipo frontend para un sistema de personalización de empaques.</td>
+    <td>React, JavaScript, HTML, CSS, Figma</td>
+    <td>
+      <a href="AQUI_LINK_REPOSITORIO_QUIET">Repo</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Conversor voz-texto / texto-voz</strong></td>
+    <td>Aplicación web con login básico, conversión de voz a texto y texto a voz.</td>
+    <td>React, Node.js, JavaScript</td>
+    <td>
+      <a href="AQUI_LINK_REPOSITORIO_CONVERSOR">Repo</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>SportVar</strong></td>
+    <td>Aplicación para análisis de variantes genéticas en deportistas a partir de archivos VCF.</td>
+    <td>Python, Streamlit, pandas, VCF</td>
+    <td>
+      <a href="AQUI_LINK_REPOSITORIO_SPORTVAR">Repo</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">// Estadísticas</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=onizuka2003&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=onizuka2003&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onizuka2003&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+<h2 align="center">// Contacto</h2>
+
+<p align="center">
+  <a href="AQUI_TU_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/onizuka2003" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="mailto:TU_CORREO_PROFESIONAL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a5acd,100:67e8f9&height=120&section=footer"/>
+</p>
+
 ## // Contacto
 
 <p align="center">
